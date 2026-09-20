@@ -1,0 +1,6 @@
+{
+  "name": "Al Abrar",
+  "description": "نظام الحضور والغياب المدرسي لمجموعة مدارس الأبرار - Groupe Scolaire Al Abrar Attendance & Management System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
